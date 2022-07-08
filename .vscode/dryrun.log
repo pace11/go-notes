@@ -1,0 +1,4 @@
+make: Entering directory `/Users/pace/Documents/App/Learn/go-notes'
+go run cmd/web/main.go
+make: Leaving directory `/Users/pace/Documents/App/Learn/go-notes'
+ 
